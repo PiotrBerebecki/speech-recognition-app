@@ -2,7 +2,7 @@
 
 App demonstrating ...
 
-Live version: https://REPO.herokuapp.com
+Live version: https://speech-recognition-app.herokuapp.com
 
 <img src="./src/graphics/screencast.gif" width="275px" height="auto">
 
@@ -17,8 +17,8 @@ Live version: https://REPO.herokuapp.com
 ## Getting started
 
 ```sh
-git clone https://github.com/PiotrBerebecki/REPO.git
-cd REPO
+git clone https://github.com/PiotrBerebecki/speech-recognition-app.git
+cd speech-recognition-app
 npm install
 
 #1. Start the development server with Browsersync reloading

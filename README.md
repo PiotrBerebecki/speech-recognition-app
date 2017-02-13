@@ -1,6 +1,6 @@
 # Speech Recognition App
 
-App demonstrating ...
+An app using the Web Speech API to transcribe user's voice.
 
 Live version: https://speech-recognition-app.herokuapp.com
 

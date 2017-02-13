@@ -4,15 +4,14 @@ App demonstrating ...
 
 Live version: https://speech-recognition-app.herokuapp.com
 
-<img src="./src/graphics/screencast.gif" width="275px" height="auto">
-
 ## Tech stack
+* Web Speech API
 * Node
 * Express
 * Heroku
 * Vanilla JavaScript
 * ES6
-* Flexbox
+* Browsersync
 
 ## Getting started
 

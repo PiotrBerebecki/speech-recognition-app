@@ -1,4 +1,4 @@
-# Vanilla JavaScript App Boilerplate
+# Speech Recognition App
 
 App demonstrating ...
 
